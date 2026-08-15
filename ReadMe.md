@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/napender/napender/main/assets/hero-banner.svg" alt="Napender — Senior SDET • Test Automation • AI-Powered Tools" width="100%" />
+  <img src="https://raw.githubusercontent.com/napender/napender/main/assets/profile-banner.svg" alt="Napendra — Senior SDET • Test Automation • AI-Powered Tools" width="100%" />
 </div>
 
 <div align="center">
