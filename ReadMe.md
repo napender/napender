@@ -120,7 +120,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.shion.dev/api?username=napender&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=napender&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=napender&theme=radical&hide_border=false&v=2" alt="GitHub Streak" />
 </div>
 
 <div align="center">
