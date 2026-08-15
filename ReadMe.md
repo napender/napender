@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/napender/napender/main/assets/banner.svg" alt="Napender — QA Engineer • Test Automation • AI-Powered Tools" width="100%" />
+  <img src="https://raw.githubusercontent.com/napender/napender/main/assets/banner.svg" alt="Napender — Senior SDET • Test Automation • AI-Powered Tools" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=650&lines=QA+Engineer+%7C+Test+Automation;AI-Powered+Tools+Explorer+%F0%9F%A4%96;Building+Scalable+Frameworks;Turning+Ideas+into+Products+%F0%9F%9A%80;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=650&lines=Senior+SDET+%7C+Test+Automation;AI-Powered+Tools+Explorer+%F0%9F%A4%96;Building+Scalable+Frameworks;Turning+Ideas+into+Products+%F0%9F%9A%80;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <p align="center">
