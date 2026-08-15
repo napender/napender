@@ -16,17 +16,27 @@
 
 ## 👨‍💻 About Me
 
-🔭 **Currently working on** — building better test automation, exploring AI-powered tools, and turning some of my ideas into real-world apps.
+**Senior SDET** with **12+ years** of experience building scalable test automation, CI/CD pipelines, and AI-assisted QA workflows.
+
+🔭 **Currently working on** — a suite of AI-powered apps:
+
+- [Anwe](https://anwe.napanwe.in) — private note & link vault with AI-powered tagging
+- [GoodTracker](https://goodtracker.in) — AI calorie & macro tracker, specialized for Indian cuisine
+- [AnweVolt](https://anwevolt.napanwe.in) — high-performance workout tracker with AI coaching
+- [LocalCent](https://github.com/napender/LocalCent) — privacy-first, self-hosted family finance dashboard
+- [pi-deepseek-peak-alert](https://github.com/napender/pi-deepseek-peak-alert) — Pi extension for DeepSeek peak-pricing alerts
 
 👯 **Looking to collaborate on** — open-source projects, test automation, developer tools, and interesting ideas where QA meets AI.
 
-🤝 **Looking for help with** — building scalable automation frameworks, system design, and turning side-project ideas into production-ready products.
+🤝 **Looking for help with** — feedback and code reviews on my side projects, scaling test frameworks for larger teams, and turning ideas into production-ready products.
 
-🌱 **Currently learning** — the ins and outs of video automation workflows, Java, system design, advanced automation, CI/CD, SQL, AI, and how to keep my indoor home nursery plants thriving! 🌿
+🌱 **Currently learning** — AI-powered testing, system design, video automation workflows, and CI/CD — plus keeping my indoor home nursery plants thriving! 🌿
 
-💬 **Ask me about** — running Half Marathon, 10k and 5k road races 🏃, surviving a 30-day continuous gym challenge 💪, scaling apps, or how to properly disassemble an Iron Man Arc Reactor replica.
+💬 **Ask me about** — running Half Marathon, 10K and 5K road races 🏃, surviving a 30-day continuous gym challenge 💪, scaling apps, or how to properly disassemble an Iron Man Arc Reactor replica.
 
 ⚡ **Fun fact** — I spend my workday breaking software and my free time trying to fix my own code — and somehow still enjoy both. 😂
+
+📍 **Based in** — Gurgaon, India (IST) · working remotely
 
 ---
 
