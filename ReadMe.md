@@ -39,6 +39,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KuhusTales)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/napender)
 [![Unsplash](https://img.shields.io/badge/Unsplash-%23000000.svg?logo=unsplash&logoColor=white)](https://unsplash.com/@napender)
+[![Strava](https://img.shields.io/badge/Strava-%23FC4C02.svg?logo=strava&logoColor=white)](https://www.strava.com/athletes/napender)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:napender@gmail.com)
 
 ---
