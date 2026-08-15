@@ -131,7 +131,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.shion.dev/api?username=napender&bg_color=161B22&title_color=E6EDF2&text_color=E6EDF2&icon_color=0f5a5e&ring_color=0f5a5e&border_color=21262D&hide_border=false&include_all_commits=true&count_private=true&cache_bust=3" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=napender&background=161B22&border=21262D&stroke=0f5a5e&ring=0f5a5e&fire=0f5a5e&currStreakNum=E6EDF2&sideNums=8B949E&currStreakLabel=E6EDF2&sideLabels=8B949E&dates=8B949E&v=4" alt="GitHub Streak" />
+  <img height="180em" src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
 
 <div align="center">
