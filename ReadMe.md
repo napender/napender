@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/napender/napender/main/assets/profile-banner.svg" alt="Napendra — Senior SDET • Test Automation • AI-Powered Tools" width="100%" />
+  <img src="https://raw.githubusercontent.com/napender/napender/main/assets/ascii-banner.svg" alt="Napendra — Senior SDET • Test Automation • AI-Powered Tools" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=650&lines=Senior+SDET+%7C+Test+Automation;AI-Powered+Tools+Explorer+%F0%9F%A4%96;Building+Scalable+Frameworks;Turning+Ideas+into+Products+%F0%9F%9A%80;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0f5a5e&center=true&vCenter=true&width=650&lines=Senior+SDET+%7C+Test+Automation;AI-Powered+Tools+Explorer+%F0%9F%A4%96;Building+Scalable+Frameworks;Turning+Ideas+into+Products+%F0%9F%9A%80;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://github.com/napender">
-    <img src="https://img.shields.io/badge/Open%20to%20Collaborate-Yes-brightgreen?style=for-the-badge" alt="Open to Collaborate" />
+    <img src="https://img.shields.io/badge/Open%20to%20Collaborate-Yes-0f5a5e?style=for-the-badge" alt="Open to Collaborate" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 01. /about-me
 
 **Senior SDET** with **12+ years** of experience building scalable test automation, CI/CD pipelines, and AI-assisted QA workflows.
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 02. /connect-with-me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/napender)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yellow_filterr)
@@ -54,7 +54,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 03. /tech-stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -102,22 +102,22 @@
 
 ---
 
-## 🚀 Featured Projects
+## 04. /featured-projects
 
 <div align="center">
   <a href="https://github.com/napender/LocalCent">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=napender&repo=LocalCent&theme=radical" alt="LocalCent" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=napender&repo=LocalCent&bg_color=161B22&title_color=E6EDF2&text_color=E6EDF2&icon_color=0f5a5e&border_color=21262D" alt="LocalCent" />
   </a>
   <a href="https://github.com/napender/pi-deepseek-peak-alert">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=napender&repo=pi-deepseek-peak-alert&theme=radical" alt="pi-deepseek-peak-alert" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=napender&repo=pi-deepseek-peak-alert&bg_color=161B22&title_color=E6EDF2&text_color=E6EDF2&icon_color=0f5a5e&border_color=21262D" alt="pi-deepseek-peak-alert" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/napender/puredesk">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=napender&repo=puredesk&theme=radical" alt="puredesk" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=napender&repo=puredesk&bg_color=161B22&title_color=E6EDF2&text_color=E6EDF2&icon_color=0f5a5e&border_color=21262D" alt="puredesk" />
   </a>
   <a href="https://github.com/napender/ReportToJira">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=napender&repo=ReportToJira&theme=radical" alt="ReportToJira" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=napender&repo=ReportToJira&bg_color=161B22&title_color=E6EDF2&text_color=E6EDF2&icon_color=0f5a5e&border_color=21262D&description_lines_count=3" alt="ReportToJira" />
   </a>
 </div>
 
@@ -127,28 +127,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 05. /github-stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=napender&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_bust=2" alt="GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=napender&theme=radical&hide_border=false&v=2" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=napender&bg_color=161B22&title_color=E6EDF2&text_color=E6EDF2&icon_color=0f5a5e&ring_color=0f5a5e&border_color=21262D&hide_border=false&include_all_commits=true&count_private=true&cache_bust=3" alt="GitHub Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=napender&background=161B22&border=21262D&stroke=0f5a5e&ring=0f5a5e&fire=0f5a5e&currStreakNum=E6EDF2&sideNums=8B949E&currStreakLabel=E6EDF2&sideLabels=8B949E&dates=8B949E&v=3" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=napender&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://trophy.benkou.dev/?username=napender&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=napender&bg_color=161B22&title_color=E6EDF2&text_color=E6EDF2&icon_color=0f5a5e&border_color=21262D&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 06. /trophies
+
+<div align="center">
+  <img src="https://trophy.benkou.dev/?username=napender&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 07. /contribution-snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/napender/napender/output/github-contribution-grid-snake-dark.svg" />
@@ -158,15 +158,15 @@
 
 ---
 
-## ✍️ Random Dev Quote
+## 08. /dev-quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=E6EDF2&authorColor=0f5a5e&backgroundColor=161B22&symbolColor=0f5a5e" alt="Random Dev Quote" />
 </div>
 
 ---
 
-## 💖 Support My Work
+## 09. /support-my-work
 
 <p align="center">If you find my work useful, consider buying me a coffee — it keeps the late-night coding sessions going! ☕</p>
 
@@ -179,7 +179,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=napender&style=for-the-badge&color=F85D7F" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=napender&style=for-the-badge&color=0f5a5e" alt="Profile views" />
 </p>
 
 <!-- 🎧 Spotify Now Playing — uncomment, replace YOUR_SPOTIFY_USER_ID, and enable at https://github.com/kittinan/spotify-github-profile

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0E1117"/>
+      <stop offset="1" stop-color="#161B22"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0f5a5e" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#0f5a5e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <circle cx="1040" cy="50" r="230" fill="url(#glow)"/>
+  <circle cx="130" cy="330" r="190" fill="url(#glow)"/>
+
+  <!-- terminal window -->
+  <rect x="120" y="25" width="960" height="315" rx="12" fill="#101319" stroke="#21262D" stroke-width="2"/>
+  <line x1="120" y1="73" x2="1080" y2="73" stroke="#21262D" stroke-width="2"/>
+  <circle cx="152" cy="49" r="6" fill="#0f5a5e"/>
+  <circle cx="176" cy="49" r="6" fill="#0f5a5e"/>
+  <circle cx="200" cy="49" r="6" fill="#0f5a5e"/>
+
+  <!-- prompt -->
+  <text x="160" y="112" font-family="monospace" font-size="20" fill="#0f5a5e" xml:space="preserve">napendra@napanwe:~$ whoami</text>
+  <rect x="464" y="94" width="11" height="20" fill="#0f5a5e"/>
+
+  <!-- ascii art -->
+  <text x="160" y="164" font-family="monospace" font-size="20" fill="#0f5a5e" xml:space="preserve">███╗   ██╗ █████╗ ██████╗ ███████╗███╗   ██╗██████╗ ██████╗  █████╗</text>
+  <text x="160" y="190" font-family="monospace" font-size="20" fill="#0f5a5e" xml:space="preserve">████╗  ██║██╔══██╗██╔══██╗██╔════╝████╗  ██║██╔══██╗██╔══██╗██╔══██╗</text>
+  <text x="160" y="216" font-family="monospace" font-size="20" fill="#0f5a5e" xml:space="preserve">██╔██╗ ██║███████║██████╔╝█████╗  ██╔██╗ ██║██║  ██║██████╔╝███████║</text>
+  <text x="160" y="242" font-family="monospace" font-size="20" fill="#0f5a5e" xml:space="preserve">██║╚██╗██║██╔══██║██╔═══╝ ██╔══╝  ██║╚██╗██║██║  ██║██╔══██╗██╔══██║</text>
+  <text x="160" y="268" font-family="monospace" font-size="20" fill="#0f5a5e" xml:space="preserve">██║ ╚████║██║  ██║██║     ███████╗██║ ╚████║██████╔╝██║  ██║██║  ██║</text>
+  <text x="160" y="294" font-family="monospace" font-size="20" fill="#0f5a5e" xml:space="preserve">╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝</text>
+
+  <!-- subtitle -->
+  <text x="160" y="326" font-family="monospace" font-size="18" fill="#8B949E" xml:space="preserve">Senior SDET • Test Automation • AI-Powered Tools</text>
+</svg>
