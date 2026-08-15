@@ -24,7 +24,7 @@
 
 🌱 **Currently learning** — the ins and outs of video automation workflows, Java, system design, advanced automation, CI/CD, SQL, AI, and how to keep my indoor home nursery plants thriving! 🌿
 
-💬 **Ask me about** — running 10k road races 🏃, surviving a 30-day continuous gym challenge 💪, scaling apps, or how to properly disassemble an Iron Man Arc Reactor replica.
+💬 **Ask me about** — running Half Marathon, 10k and 5k road races 🏃, surviving a 30-day continuous gym challenge 💪, scaling apps, or how to properly disassemble an Iron Man Arc Reactor replica.
 
 ⚡ **Fun fact** — I spend my workday breaking software and my free time trying to fix my own code — and somehow still enjoy both. 😂
 
